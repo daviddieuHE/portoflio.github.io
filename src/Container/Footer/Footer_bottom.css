@@ -1,0 +1,7 @@
+.footer_bottom-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 170px;
+    background-image: url(../../assets//home/bg.png);
+}

@@ -1,0 +1,82 @@
+  table {
+    color: #333;
+    background: white;
+    border: 1px solid grey;
+    font-size: 12pt;
+  }
+  table th {
+    color: rgb(0, 0, 0);
+    background: rgba(0,0,0,.1);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  table td {
+    padding: 10px;
+    border: 1px solid lightgrey;
+  }
+
+
+  .th1_style{
+    padding-left: 20px;
+    padding-right: 200px;
+    text-align: center;
+  }
+
+  .th2_style{
+    padding-left: 20px;
+    padding-right: 200px;
+  }
+
+  .th3_style{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .th4_style{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .th5_style{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .tableau{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0 50px 0;
+  }
+
+  .valorise{
+    font-weight: bold;
+}
+
+.heures{
+    text-align: center;
+}
+
+
+.total_tt{
+  text-align: right;
+  border-collapse: collapse;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.total{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+button { 
+    color: white; 
+    background-color: darkorange; 
+    border:1px solid; 
+    border-color: darkorange; 
+    border-radius: 8px;
+  }
